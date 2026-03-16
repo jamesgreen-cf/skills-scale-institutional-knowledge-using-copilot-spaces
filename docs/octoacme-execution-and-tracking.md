@@ -7,6 +7,10 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - Daily standups (15 min) — focus on progress, blockers, dependencies
 - Weekly delivery sync — show progress, updates, and flagged risks
 - Demo/Review at the end of each sprint or milestone
+- **UX review sessions**: schedule a design review before implementation of user-facing features; UX Designer confirms fidelity on staging before QA sign-off
+- **QA checkpoints**: QA Engineer attends sprint review to confirm acceptance criteria are met; critical defects block "Done" status
+- **Documentation updates**: Technical Writer joins weekly sync to track scope changes; doc updates are included in sprint velocity
+- **Support feedback loop**: Customer Support / CS attends monthly or milestone-based demo to share user feedback and flag usability issues
 
 ## Workflows
 - Use the project board (e.g., GitHub Projects) with columns: Backlog, Ready, In Progress, In Review, QA, Done
@@ -36,5 +40,9 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 ## Execution Checklist
 - [ ] Branching and PR conventions documented in repo
 - [ ] CI configured for tests and lint
-- [ ] Regular demos scheduled
+- [ ] Regular demos scheduled (include UX and Support where relevant)
 - [ ] Risk register updated weekly
+- [ ] UX design review completed before implementation of user-facing work
+- [ ] QA checkpoints defined and enforced in Definition of Done
+- [ ] Documentation tasks tracked on the project board
+- [ ] Support runbook / FAQ draft in progress alongside development
