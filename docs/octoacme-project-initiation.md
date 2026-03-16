@@ -19,6 +19,8 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Initial risk list
 - Resource needs (team roles, rough effort estimate)
 
+> **Team roles to consider**: Developer, Product Manager, Project Manager. Depending on scope, also identify whether UX/UI Designer, QA Engineer, Technical Writer, and/or Customer Support / Customer Success involvement is needed. See [Roles & Personas](./octoacme-roles-and-personas.md) for assignment guidance.
+
 ## Project One-pager Template
 - Project name:
 - Problem statement:
@@ -27,7 +29,8 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Primary stakeholders:
 - Suggested timeline / milestones:
 - Quick risks & dependencies:
-- Proposed team / roles:
+- Proposed team / roles: *(include UX, QA, Tech Writer, Support/CS as applicable)*
+- Documentation needs: *(identify any user-facing or internal docs impacted)*
 
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead

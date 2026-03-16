@@ -16,6 +16,7 @@ After each sprint, release, or important milestone. Also after incidents.
 - Timebox: 45–75 minutes depending on team size
 - Use an anonymous idea board if needed to encourage candor
 - Prioritize 2–3 top action items to avoid overload
+- **Invite extended roles as needed**: include Customer Support / CS, QA Engineer, UX Designer, and Technical Writer when the sprint or release involved their work — their perspectives surface blind spots not visible to core delivery roles
 
 ## Tracking Improvements
 - Add action items to the project backlog or issues with clear owners and timelines
@@ -31,3 +32,5 @@ After each sprint, release, or important milestone. Also after incidents.
 ## Continuous Improvement Culture
 - Measure impact of action items
 - Celebrate improvements and make small, iterative changes
+- Capture extended-role retrospective inputs (UX, QA, Support, Tech Writer) in a shared format and route action items to the right owners
+- Use post-release support ticket trends (from Customer Support / CS) and defect summaries (from QA) as data inputs into prioritisation
